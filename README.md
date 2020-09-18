@@ -31,3 +31,5 @@ Project is created with:
 * Realtime chatting
 
 ## Demo
+ [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/kyIb0Y4G7a8)
+    
