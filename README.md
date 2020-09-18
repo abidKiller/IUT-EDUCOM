@@ -10,7 +10,7 @@
 
 
 ## Introduction 
-IUT-EDUCOM is a student student management website where students can communicate with each other,share events,store files.  It is designed for the students Islamic University of Technology(IUT).
+IUT-EDUCOM is a student management website where students can communicate with each other,share events,store files. It is designed for the students of Islamic University of Technology(IUT).
 
 ## Motivation
 
