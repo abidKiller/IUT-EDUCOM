@@ -31,5 +31,8 @@ Project is created with:
 * Realtime chatting
 
 ## Demo
- https://github.com/abidKiller/IUT-EDUCOM/blob/de52029cff370be4ab07c8592b857c2525fe4146/iuteducom.mp4
+
+https://user-images.githubusercontent.com/43814196/132174536-0799f05a-1434-4f8e-93f5-be3b0559cf15.mp4
+
+
     
